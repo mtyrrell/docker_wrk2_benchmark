@@ -1,5 +1,7 @@
 # docker on wrk2 benchmark
 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 no dependents image 
 
 Dockerfile only 
